@@ -6,6 +6,10 @@
 app = 'nextjs-basic-autumn-sunset-4816'
 primary_region = 'jnb'
 
+[mounts]
+  source = "myapp_data"
+  destination = "/data"
+
 [env]
   LOG_LEVEL = "debug"
   ENHANCE_IMAGE = "true"
