@@ -5,7 +5,6 @@
 
 app = 'nextjs-basic-autumn-sunset-4816'
 
-
 [env]
   LOG_LEVEL = "debug"
   ENHANCE_IMAGE = "true"
